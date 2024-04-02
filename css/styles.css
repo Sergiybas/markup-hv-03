@@ -52,6 +52,7 @@ ul {
 .header {
     display: flex;
     align-items: center;
+    justify-content: center;
 
 }
 
@@ -411,7 +412,7 @@ address {
     justify-content: center;
     flex-wrap: wrap;
     gap: 24px;
-
+padding: 0;
     text-align: center;
 }
 
